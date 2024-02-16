@@ -1,0 +1,8 @@
+{
+	"terminal.integrated.env.linux": {
+		"EXT_PATH": "${workspaceFolder}/",
+	},
+	"terminal.integrated.env.osx": {
+		"EXT_PATH": "${workspaceFolder}/",
+	},
+}

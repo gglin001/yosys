@@ -46,3 +46,6 @@ __pycache__
 /tests/unit/bintest/
 /tests/unit/objtest/
 /tests/ystests
+
+.cache/
+compile_commands.json
